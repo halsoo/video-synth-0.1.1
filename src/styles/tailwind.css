@@ -6,7 +6,7 @@ body {
   background-color: black;
 }
 
-@import url(//db.onlinewebfonts.com/c/23c0fcab84d99da0de762de7e220a6e1?family=Europa);
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
 
@@ -4754,11 +4754,11 @@ video {
 }
 
 .font-body {
-  font-family: Europa, Noto Sans KR, sans-serif;
+  font-family: Nunito Sans, Noto Sans KR, sans-serif;
 }
 
 .font-display {
-  font-family: Europa, Noto Sans KR, sans-serif;
+  font-family: Nunito Sans, Noto Sans KR, sans-serif;
 }
 
 .font-hairline {
@@ -19343,11 +19343,11 @@ video {
   }
 
   .sm\:font-body {
-    font-family: Europa, Noto Sans KR, sans-serif;
+    font-family: Nunito Sans, Noto Sans KR, sans-serif;
   }
 
   .sm\:font-display {
-    font-family: Europa, Noto Sans KR, sans-serif;
+    font-family: Nunito Sans, Noto Sans KR, sans-serif;
   }
 
   .sm\:font-hairline {
@@ -33933,11 +33933,11 @@ video {
   }
 
   .lg\:font-body {
-    font-family: Europa, Noto Sans KR, sans-serif;
+    font-family: Nunito Sans, Noto Sans KR, sans-serif;
   }
 
   .lg\:font-display {
-    font-family: Europa, Noto Sans KR, sans-serif;
+    font-family: Nunito Sans, Noto Sans KR, sans-serif;
   }
 
   .lg\:font-hairline {
