@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/halsoo.github.io/video-synth-0.1.1/static/css/main.11fb54e3.chunk.css",
-    "main.js": "/halsoo.github.io/video-synth-0.1.1/static/js/main.4361c862.chunk.js",
-    "main.js.map": "/halsoo.github.io/video-synth-0.1.1/static/js/main.4361c862.chunk.js.map",
+    "main.js": "/halsoo.github.io/video-synth-0.1.1/static/js/main.ce8043ef.chunk.js",
+    "main.js.map": "/halsoo.github.io/video-synth-0.1.1/static/js/main.ce8043ef.chunk.js.map",
     "runtime-main.js": "/halsoo.github.io/video-synth-0.1.1/static/js/runtime-main.5546b8d1.js",
     "runtime-main.js.map": "/halsoo.github.io/video-synth-0.1.1/static/js/runtime-main.5546b8d1.js.map",
     "static/js/2.d4b0895e.chunk.js": "/halsoo.github.io/video-synth-0.1.1/static/js/2.d4b0895e.chunk.js",
     "static/js/2.d4b0895e.chunk.js.map": "/halsoo.github.io/video-synth-0.1.1/static/js/2.d4b0895e.chunk.js.map",
     "index.html": "/halsoo.github.io/video-synth-0.1.1/index.html",
-    "precache-manifest.f54938bcab50fd5bf9cccdfe49c9bd24.js": "/halsoo.github.io/video-synth-0.1.1/precache-manifest.f54938bcab50fd5bf9cccdfe49c9bd24.js",
+    "precache-manifest.8ed953d016f3a0f1eddfcd756517cff8.js": "/halsoo.github.io/video-synth-0.1.1/precache-manifest.8ed953d016f3a0f1eddfcd756517cff8.js",
     "service-worker.js": "/halsoo.github.io/video-synth-0.1.1/service-worker.js",
     "static/css/main.11fb54e3.chunk.css.map": "/halsoo.github.io/video-synth-0.1.1/static/css/main.11fb54e3.chunk.css.map",
     "static/js/2.d4b0895e.chunk.js.LICENSE.txt": "/halsoo.github.io/video-synth-0.1.1/static/js/2.d4b0895e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5546b8d1.js",
     "static/js/2.d4b0895e.chunk.js",
     "static/css/main.11fb54e3.chunk.css",
-    "static/js/main.4361c862.chunk.js"
+    "static/js/main.ce8043ef.chunk.js"
   ]
 }

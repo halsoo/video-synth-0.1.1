@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2508a7021d054327c1497302799101e4",
+    "revision": "54f2633f27d7e391c72f3c55a7c6d95e",
     "url": "/halsoo.github.io/video-synth-0.1.1/index.html"
   },
   {
-    "revision": "c76aa2ac80216e11c48b",
+    "revision": "36f01c266f064d087a09",
     "url": "/halsoo.github.io/video-synth-0.1.1/static/css/main.11fb54e3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/halsoo.github.io/video-synth-0.1.1/static/js/2.d4b0895e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c76aa2ac80216e11c48b",
-    "url": "/halsoo.github.io/video-synth-0.1.1/static/js/main.4361c862.chunk.js"
+    "revision": "36f01c266f064d087a09",
+    "url": "/halsoo.github.io/video-synth-0.1.1/static/js/main.ce8043ef.chunk.js"
   },
   {
     "revision": "2fa77f020124e77db451",

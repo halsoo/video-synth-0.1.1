@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/halsoo.github.io/video-synth-0.1.1/precache-manifest.f54938bcab50fd5bf9cccdfe49c9bd24.js"
+  "/halsoo.github.io/video-synth-0.1.1/precache-manifest.8ed953d016f3a0f1eddfcd756517cff8.js"
 );
 
 self.addEventListener('message', (event) => {
