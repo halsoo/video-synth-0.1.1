@@ -1,0 +1,15 @@
+html {
+    font-size: 1vw;
+}
+
+body {
+    background-color: black;
+}
+
+@import url(//db.onlinewebfonts.com/c/23c0fcab84d99da0de762de7e220a6e1?family=Europa);
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+@tailwind base;
+
+@tailwind components;
+@tailwind utilities;
