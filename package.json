@@ -15,11 +15,14 @@
         "redux": "^4.0.5"
     },
     "devDependencies": {
+        "gh-pages": "^2.2.0",
         "autoprefixer": "^9.7.6",
         "postcss-cli": "^7.1.0",
         "tailwindcss": "^1.2.0"
     },
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "tailwind build src/styles/index.css -o src/styles/tailwind.css && react-scripts build",
         "build:style": "tailwind build src/styles/index.css -o src/styles/tailwind.css",
