@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/video-synth-0.1.1/static/css/main.11fb54e3.chunk.css",
-    "main.js": "/video-synth-0.1.1/static/js/main.ce8043ef.chunk.js",
-    "main.js.map": "/video-synth-0.1.1/static/js/main.ce8043ef.chunk.js.map",
+    "main.js": "/video-synth-0.1.1/static/js/main.d873489a.chunk.js",
+    "main.js.map": "/video-synth-0.1.1/static/js/main.d873489a.chunk.js.map",
     "runtime-main.js": "/video-synth-0.1.1/static/js/runtime-main.81615657.js",
     "runtime-main.js.map": "/video-synth-0.1.1/static/js/runtime-main.81615657.js.map",
     "static/js/2.d4b0895e.chunk.js": "/video-synth-0.1.1/static/js/2.d4b0895e.chunk.js",
     "static/js/2.d4b0895e.chunk.js.map": "/video-synth-0.1.1/static/js/2.d4b0895e.chunk.js.map",
     "index.html": "/video-synth-0.1.1/index.html",
-    "precache-manifest.7ac90d02226ab3f3fb4164a64ae09841.js": "/video-synth-0.1.1/precache-manifest.7ac90d02226ab3f3fb4164a64ae09841.js",
+    "precache-manifest.1b8c47d6258240f4b998d64f944cc402.js": "/video-synth-0.1.1/precache-manifest.1b8c47d6258240f4b998d64f944cc402.js",
     "service-worker.js": "/video-synth-0.1.1/service-worker.js",
     "static/css/main.11fb54e3.chunk.css.map": "/video-synth-0.1.1/static/css/main.11fb54e3.chunk.css.map",
     "static/js/2.d4b0895e.chunk.js.LICENSE.txt": "/video-synth-0.1.1/static/js/2.d4b0895e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.81615657.js",
     "static/js/2.d4b0895e.chunk.js",
     "static/css/main.11fb54e3.chunk.css",
-    "static/js/main.ce8043ef.chunk.js"
+    "static/js/main.d873489a.chunk.js"
   ]
 }
