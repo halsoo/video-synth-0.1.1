@@ -14,7 +14,6 @@ class ControlPanel extends Component {
             (prop) => prop.key === `screenSplitShape-${this.props.n}`,
         ).val;
         return (
-            // basicShape selector
             <div className="mx-auto w-1/2 h-auto my-8 flex flex-wrap justify-around">
                 <ShapeSelector name={`basicShape-${this.props.n}`} shapeNum={4} />
                 <Slider name={`basicShapeSize-${this.props.n}`} />
