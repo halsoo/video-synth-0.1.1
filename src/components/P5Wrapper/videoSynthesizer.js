@@ -162,7 +162,7 @@ export const videoSynthesizer = (p) => {
         VOb = new VideoOsc(p.width, p.height, 2);
 
         mic = new p5.AudioIn();
-        fft = new p5.FFT(0.7, 16);
+        fft = new p5.FFT(0.6, 16);
         fft.setInput(mic);
     };
 
@@ -178,7 +178,7 @@ export const videoSynthesizer = (p) => {
             for (let i = 0; i < 4; i++) {
                 let diff = prevBands[i] - bands[i];
                 //let diff = bands[i] + prevBands[i];
-                modulation.push(diff / 3);
+                modulation.push(diff / 5);
             }
         } else {
             mic.stop();
